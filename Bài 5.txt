@@ -1,0 +1,9 @@
+git init : Khởi tạo 1 git repository 1 project mới hoặc đã có.
+git add .: Thêm thay đổi đến stage/index trong thư mục làm việc.
+git status:Để check trạng thái của những file bạn đã thay đổi trong thư mục làm việc. 
+git commit -m "" : Để note những thay đổi để dễ dàng tìm kiếm .
+git push origin master : Đẩy code lên .
+git clone + link dẫn : Copy 1 git repository từ remote source.
+git pull : pdate và bạn apply tất cả thay đổi đó trên code của mình.
+git remote + link dẫn : Tạo một bản sao từ nhánh từ giao tiếp với các remote khác .
+git branch : Tạo một nhánh làm việc mới từ project .
